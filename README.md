@@ -1,1 +1,1 @@
-# datascience-masters-byfarouk
+# datascience-masters-guide
