@@ -1,1 +1,1 @@
-# datascience-masters-guide
+# become-datascience-master
